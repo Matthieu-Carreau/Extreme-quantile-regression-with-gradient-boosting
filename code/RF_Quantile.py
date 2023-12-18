@@ -2,8 +2,6 @@ import numpy as np
 
 from ModifiedTree import ModifiedTree
 
-# TO dO ? split criterion to test : “squared_error”, “friedman_mse”, “absolute_error”, “poisson”
-
 # Random Forest quantile estimator
 class RF_Quantile():
     """
